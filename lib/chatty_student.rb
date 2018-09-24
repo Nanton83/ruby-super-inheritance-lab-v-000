@@ -12,6 +12,7 @@ class ChattyStudent < Student
     until count = 10 
     super
     count +=1 
+  end
   end 
   
 end
